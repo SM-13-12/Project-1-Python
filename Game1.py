@@ -13,7 +13,7 @@ else:
     comp = 'c'
 
 
-#print(comp)
+print(comp)
 
 user = input("User's Turn: Stone(s), Paper(p), Scissor(c)")
 
